@@ -1,0 +1,16 @@
+AE-ngComms-code
+Copyright 2026 The AE-ngComms-code authors
+
+The software is licensed under the Apache License 2.0.
+
+The data subset in data/ is derived from:
+Roger Bales, Guotao Cui, Robert Rice, Xiande Meng, Ziran Zhang,
+Peter Hartsough, Steven Glaser, and Martha Conklin (2020),
+"Snow depth, air temperature, humidity, soil moisture and temperature,
+and solar radiation data from the basin-scale wireless-sensor network
+in American River Hydrologic Observatory (ARHO)", Dryad.
+https://doi.org/10.6071/M39Q2V
+
+The Dryad dataset is made available under the CC0 1.0 Universal
+Public Domain Dedication. The data are not relicensed under Apache-2.0.
+

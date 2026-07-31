@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the release-specific software record and the associated article when available."
+type: software
+title: "AE-ngComms-code: Autoencoder source-compression experiments for next-generation communication systems"
+version: 1.0.0
+date-released: 2026-07-31
+repository-code: "https://github.com/NETSERV-UAH/AE-ngComms-code"
+license: Apache-2.0
+abstract: "Code, data subset, published results, and plotting utilities used to study how block length, latent dimension, depth, and encoder-decoder asymmetry affect reconstruction accuracy, nominal compression, and a compute-derived energy proxy."
+keywords:
+  - autoencoders
+  - asymmetric autoencoders
+  - data compression
+  - communication systems
+  - energy-aware design
+authors:
+  - family-names: Carrascal
+    given-names: David
+    orcid: "https://orcid.org/0000-0002-6982-9365"
+  - family-names: Diaz-Fuentes
+    given-names: Javier
+    orcid: "https://orcid.org/0009-0007-6271-9343"
+  - family-names: Rojas
+    given-names: Elisa
+    orcid: "https://orcid.org/0000-0002-6385-2628"
+  - family-names: Álvarez-Horcajo
+    given-names: Joaquín
+    orcid: "https://orcid.org/0000-0002-8522-9933"
+  - family-names: Arco
+    given-names: José M.
+    orcid: "https://orcid.org/0000-0001-7752-3561"
+
