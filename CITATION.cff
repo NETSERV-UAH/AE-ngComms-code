@@ -2,8 +2,10 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the release-specific software record and the associated article when available."
 type: software
 title: "AE-ngComms-code: Autoencoder source-compression experiments for next-generation communication systems"
-version: 1.0.0
+version: 1.0.3
 date-released: 2026-07-31
+doi: "10.5281/zenodo.21721615"
+url: "https://doi.org/10.5281/zenodo.21721615"
 repository-code: "https://github.com/NETSERV-UAH/AE-ngComms-code"
 license: Apache-2.0
 abstract: "Code, data subset, published results, and plotting utilities used to study how block length, latent dimension, depth, and encoder-decoder asymmetry affect reconstruction accuracy, nominal compression, and a compute-derived energy proxy."
