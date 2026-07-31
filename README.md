@@ -151,6 +151,11 @@ deployment conclusions.
 Please cite the release-specific Zenodo record and the associated article
 when available. Machine-readable metadata are provided in `CITATION.cff`.
 
+> Carrascal, D., Diaz-Fuentes, J., Rojas, E., Álvarez-Horcajo, J.& M. Arco, J. (2026).
+> The Role of Autoencoders in Next-Generation Communication Systems: Architectures and
+> Domain-Specific Paradigms (Version 1.0.2) [Computer software].
+> Zenodo. https://doi.org/10.5281/zenodo.21721615
+
 ## License
 
 The software is licensed under the Apache License 2.0. See `LICENSE`.
